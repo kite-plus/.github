@@ -2,8 +2,8 @@
 
 这个仓库维护 [Kite Plus](https://github.com/kite-plus) 的 GitHub 组织主页。
 
-- [中文主页](profile/README.md)：组织概览页默认展示的内容。
-- [英文主页](profile/README.en.md)：供英文读者访问的版本。
+- [英文主页](profile/README.md)：组织概览页默认展示的内容。
+- [中文主页](profile/README.zh-CN.md)：供中文读者访问的版本。
 - [品牌横幅](assets/readme/hero.svg)：使用 Kite 现有标志和蓝色，可直接编辑的静态 SVG。
 
 ## 文件结构
@@ -13,7 +13,7 @@
 ├── README.md
 ├── profile/
 │   ├── README.md
-│   └── README.en.md
+│   └── README.zh-CN.md
 └── assets/readme/
     └── hero.svg
 ```
