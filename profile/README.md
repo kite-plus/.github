@@ -28,6 +28,8 @@ A Markdown publishing platform. Write in a studio in your browser, keep every po
 
 A platform for gathering published content and helping readers discover it. Explore is planned and has not launched yet.
 
+[Repository](https://github.com/kite-plus/explore)
+
 ## How we build
 
 - **Open formats first.** Content lives in Markdown and Git, so you can read it, diff it, and take it elsewhere without us.
