@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392" role="img" aria-labelledby="title desc">
+  <title id="title">What Kite Plus builds</title>
+  <desc id="desc">Three stages in the life of content: create, publish, and discover. Kite covers creating and publishing and is in early development. Explore covers discovery and is planned.</desc>
+  <style>
+    .canvas { fill: #F6F8FB; stroke: #E3E8F0; }
+    .card { fill: #FFFFFF; stroke: #DAE1EB; }
+    .card-planned { fill: none; stroke: #B9C2D0; stroke-dasharray: 6 6; }
+    .ink { fill: #1F2733; }
+    .muted { fill: #667285; }
+    .faint { fill: #A7B0BF; }
+    .key { fill: #3D68C8; }
+    .mark { fill: #4A77D6; }
+    .tint { fill: #EBF1FC; }
+    .tint-muted { fill: #EEF1F5; }
+    .line { fill: none; stroke: #4A77D6; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .line-planned { fill: none; stroke: #B9C2D0; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 2 8; }
+    .line-muted { fill: none; stroke: #8A95A8; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', Helvetica, Arial, sans-serif; }
+    .serif { font-family: 'Noto Serif SC', 'Songti SC', Georgia, 'Times New Roman', serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    @media (prefers-color-scheme: dark) {
+      .canvas { fill: #131A24; stroke: #242E3C; }
+      .card { fill: #18212E; stroke: #2A3546; }
+      .card-planned { stroke: #3A4659; }
+      .ink { fill: #E6EDF5; }
+      .muted { fill: #98A4B6; }
+      .faint { fill: #566378; }
+      .key { fill: #8FB0F4; }
+      .mark { fill: #6F97EC; }
+      .tint { fill: #1D2A40; }
+      .tint-muted { fill: #1E2633; }
+      .line { stroke: #6F97EC; }
+      .line-planned { stroke: #3A4659; }
+      .line-muted { stroke: #7C889B; }
+    }
+  </style>
+
+  <rect class="canvas" x="0.5" y="0.5" width="1199" height="391" rx="20"/>
+
+  <g id="stages">
+    <g class="mono" font-size="18" font-weight="600">
+      <text class="key" x="48" y="70">01</text>
+      <text class="key" x="428" y="70">02</text>
+      <text class="faint" x="808" y="70">03</text>
+    </g>
+    <path class="line" d="M84 64H390M384 58L390 64L384 70"/>
+    <path class="line" d="M464 64H770M764 58L770 64L764 70"/>
+    <path class="line-planned" d="M844 64H1152"/>
+    <g class="serif ink" font-size="32">
+      <text x="48" y="116">Create</text>
+      <text x="428" y="116">Publish</text>
+      <text x="808" y="116">Discover</text>
+    </g>
+    <g class="sans muted" font-size="20">
+      <text x="48" y="154">Write in Markdown,</text>
+      <text x="48" y="182">in files you own</text>
+      <text x="428" y="154">Static pages, your own</text>
+      <text x="428" y="182">server, or Git</text>
+      <text x="808" y="154">Gather what people publish</text>
+      <text x="808" y="182">and help readers find it</text>
+    </g>
+  </g>
+
+  <g id="kite">
+    <rect class="card" x="48.5" y="224.5" width="723" height="119" rx="16"/>
+    <rect class="tint" x="72" y="248" width="72" height="72" rx="18"/>
+    <g class="mark" transform="translate(108 284) scale(1.05) translate(-32 -32)">
+      <path d="M14.692 15.735L28.632 21.065A2.05 2.05 0 0 1 29.95 22.98L29.95 30.36A2.05 2.05 0 0 1 27.168 32.275L13.228 26.945A2.05 2.05 0 0 1 11.91 25.03L11.91 17.65A2.05 2.05 0 0 1 14.692 15.735Z"/>
+      <path d="M14.692 30.085L28.632 35.415A2.05 2.05 0 0 1 29.95 37.33L29.95 45.94A2.05 2.05 0 0 1 27.168 47.855L13.228 42.525A2.05 2.05 0 0 1 11.91 40.61L11.91 32A2.05 2.05 0 0 1 14.692 30.085Z"/>
+      <path d="M35.368 21.065L49.308 15.735A2.05 2.05 0 0 1 52.09 17.65L52.09 40.61A2.05 2.05 0 0 1 50.772 42.525L36.832 47.855A2.05 2.05 0 0 1 34.05 45.94L34.05 22.98A2.05 2.05 0 0 1 35.368 21.065Z"/>
+    </g>
+    <text class="sans ink" x="168" y="274" font-size="28" font-weight="600">Kite</text>
+    <rect class="tint" x="168" y="290" width="176" height="30" rx="15"/>
+    <text class="sans key" x="256" y="311" font-size="17" font-weight="500" text-anchor="middle">Early development</text>
+    <text class="mono muted" x="748" y="291" font-size="18" text-anchor="end">github.com/kite-plus/kite</text>
+  </g>
+
+  <g id="explore">
+    <rect class="card-planned" x="808.5" y="224.5" width="343" height="119" rx="16"/>
+    <rect class="tint-muted" x="832" y="248" width="72" height="72" rx="18"/>
+    <g class="line-muted">
+      <circle cx="868" cy="284" r="15"/>
+      <path d="M875 277L870.5 286.5L861 291L865.5 281.5Z"/>
+    </g>
+    <text class="sans ink" x="928" y="274" font-size="28" font-weight="600">Explore</text>
+    <rect class="tint-muted" x="928" y="290" width="96" height="30" rx="15"/>
+    <text class="sans muted" x="976" y="311" font-size="17" font-weight="500" text-anchor="middle">Planned</text>
+  </g>
+</svg>
