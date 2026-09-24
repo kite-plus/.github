@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392" role="img" aria-labelledby="title desc">
   <title id="title">Kite Plus 在做什么</title>
-  <desc id="desc">内容的三个阶段：创作、发布与发现。Kite 负责创作与发布，处于早期开发阶段；Explore 负责发现，仍在规划中。</desc>
+  <desc id="desc">内容的三个阶段：创作、发布与发现。Kite 负责创作与发布，处于早期开发阶段；Explore 负责发现，正在开发中，尚未上线。</desc>
   <style>
     .canvas { fill: #F6F8FB; stroke: #E3E8F0; }
     .card { fill: #FFFFFF; stroke: #DAE1EB; }
@@ -84,6 +84,6 @@
     </g>
     <text class="sans ink" x="928" y="274" font-size="28" font-weight="600">Explore</text>
     <rect class="tint-muted" x="928" y="290" width="82" height="30" rx="15"/>
-    <text class="sans muted" x="969" y="311" font-size="17" font-weight="500" text-anchor="middle">规划中</text>
+    <text class="sans muted" x="969" y="311" font-size="17" font-weight="500" text-anchor="middle">开发中</text>
   </g>
 </svg>

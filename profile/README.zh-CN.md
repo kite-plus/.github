@@ -13,7 +13,7 @@
 我们做的每一个项目都出自同一个想法：你写下的内容应该保存在自己掌握的文件里，发布到哪里也应该一直由你决定。我们想为内容的完整旅程做工具，从第一份草稿，到找到它的那位读者。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kite-plus/.github/main/assets/readme/lifecycle.zh-CN.svg" width="100%" alt="内容的三个阶段：创作、发布与发现。Kite 负责创作与发布，处于早期开发阶段；Explore 负责发现，仍在规划中。">
+  <img src="https://raw.githubusercontent.com/kite-plus/.github/main/assets/readme/lifecycle.zh-CN.svg" width="100%" alt="内容的三个阶段：创作、发布与发现。Kite 负责创作与发布，处于早期开发阶段；Explore 负责发现，正在开发中，尚未上线。">
 </p>
 
 ## 项目
@@ -26,7 +26,7 @@
 
 ### Explore
 
-内容聚合与发现平台，汇集大家发布的内容，帮读者找到它们。Explore 仍在规划中，尚未上线。
+内容聚合与发现平台，汇集大家发布的内容，帮读者找到它们。Explore 正在开发中，尚未上线。
 
 [代码仓库](https://github.com/kite-plus/explore)
 

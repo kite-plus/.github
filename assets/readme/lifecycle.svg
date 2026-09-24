@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392" role="img" aria-labelledby="title desc">
   <title id="title">What Kite Plus builds</title>
-  <desc id="desc">Three stages in the life of content: create, publish, and discover. Kite covers creating and publishing and is in early development. Explore covers discovery and is planned.</desc>
+  <desc id="desc">Three stages in the life of content: create, publish, and discover. Kite covers creating and publishing and is in early development. Explore covers discovery, is in development, and has not launched yet.</desc>
   <style>
     .canvas { fill: #F6F8FB; stroke: #E3E8F0; }
     .card { fill: #FFFFFF; stroke: #DAE1EB; }
@@ -83,7 +83,7 @@
       <path d="M875 277L870.5 286.5L861 291L865.5 281.5Z"/>
     </g>
     <text class="sans ink" x="928" y="274" font-size="28" font-weight="600">Explore</text>
-    <rect class="tint-muted" x="928" y="290" width="96" height="30" rx="15"/>
-    <text class="sans muted" x="976" y="311" font-size="17" font-weight="500" text-anchor="middle">Planned</text>
+    <rect class="tint-muted" x="928" y="290" width="152" height="30" rx="15"/>
+    <text class="sans muted" x="1004" y="311" font-size="17" font-weight="500" text-anchor="middle">In development</text>
   </g>
 </svg>
