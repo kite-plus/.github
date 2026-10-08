@@ -13,7 +13,7 @@
 Everything we build starts from one idea: your writing belongs in plain files you own, and where you publish it should stay your choice. We are building tools for the whole journey, from the first draft to the reader who finds it.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kite-plus/.github/main/assets/readme/lifecycle.svg" width="100%" alt="Three stages: create, publish, and discover. Kite covers creating and publishing and is in early development; Explore covers discovery, is in development, and has not launched yet.">
+  <img src="https://raw.githubusercontent.com/kite-plus/.github/main/assets/readme/lifecycle.svg" width="100%" alt="Three stages: create, publish, and discover. Kite covers creating and publishing and is in early development; Explore covers discovery and is live.">
 </p>
 
 ## Projects
@@ -26,9 +26,9 @@ A Markdown publishing platform. Write in a studio in your browser, keep every po
 
 ### Explore
 
-A platform for gathering published content and helping readers discover it. Explore is in development and has not launched yet.
+A platform for gathering published content and helping readers discover it. Explore is live: browse new posts from independent blogs at explore.kite.plus.
 
-[Repository](https://github.com/kite-plus/explore)
+[Open Explore](https://explore.kite.plus) · [Repository](https://github.com/kite-plus/explore)
 
 ## How we build
 
